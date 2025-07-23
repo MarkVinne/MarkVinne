@@ -25,8 +25,6 @@
 - SQL e Bancos de Dados
 
 ---
-*(Atualize com links e descrições reais!)*
-
 
 - ✉️ E-mail: mvsl8488@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcusvinicius1984)  
