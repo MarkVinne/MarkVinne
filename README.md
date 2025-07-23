@@ -25,12 +25,6 @@
 - SQL e Bancos de Dados
 
 ---
-
-### 💼 Experiências e Certificações
-
-- 👨‍🏫 **Monitor de Introdução à Programação** – UFPE (2023.2)
-
----
 *(Atualize com links e descrições reais!)*
 
 
